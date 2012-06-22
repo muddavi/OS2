@@ -1,5 +1,5 @@
 //****************   FileIO Management   ************************
-//Name: Alan Layfield		Class: OS II
+//Name: Alan Layfield and David Mudd		Class: OS II
 //Date Due: 12/03/11		Professor: Yogi Dandass
 //***************************************************************
 

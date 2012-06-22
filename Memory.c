@@ -1,5 +1,5 @@
 //****************   Memory Management   ************************
-//Name: Alan Layfield		Class: OS II
+//Name: Alan Layfield and David Mudd		Class: OS II
 //Date Due: 9/7/11		Professor: Yogi Dandass
 //***************************************************************
 

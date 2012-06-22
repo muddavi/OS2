@@ -1,5 +1,5 @@
 //****************   Thread Management   ************************
-//Name: Alan Layfield		Class: OS II
+//Name: Alan Layfield and David Mudd		Class: OS II
 //Date Due: 10/18/11		Professor: Yogi Dandass
 //***************************************************************
 

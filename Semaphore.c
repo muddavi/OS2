@@ -1,5 +1,5 @@
 //*********************   Semaphores   **************************
-//Name: Alan Layfield		Class: OS II
+//Name: Alan Layfield and David Mudd		Class: OS II
 //Date Due: 11/10/11		Professor: Yogi Dandass
 //***************************************************************
 
